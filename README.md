@@ -1,5 +1,4 @@
 # forkify
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/ShaanDev-lab/my-forkify-project)
 
 Forkify is a modern recipe application that allows users to search, view, bookmark, and create recipes. With a database of over one million recipes, you can easily find cooking inspiration, adjust serving sizes dynamically, and save your favorites for later.
 
